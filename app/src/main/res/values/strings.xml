@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab2</string>
+    <string name="game_rule">Совпадает ли название цвета слева с цветом текста справа?</string>
+    <string name="color_name">название цвета</string>
+    <string name="color_text">цвет текста</string>
+    <string name="yes_button">Да</string>
+    <string name="no_button">Нет</string>
+</resources>

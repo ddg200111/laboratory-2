@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="game_rule" type="id">rule</item>
+    <item name="color_name" type="id">name</item>
+    <item name="color_text" type="id">text</item>
+    <item name="yes_button" type="id">yes</item>
+    <item name="no_button" type="id">no</item>
+</resources>
